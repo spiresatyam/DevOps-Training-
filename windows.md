@@ -1,8 +1,12 @@
 ## WindowsTools
 
+Install chocolatey from the instructions given in the link below.
+
+[Chocolatey Installation](https://chocolatey.org/docs/installation)
+
 ```bash
 choco install virtualbox --version=7.0.8 -y
-choco install vagrant --version=2.2.3.7 -y
+choco install vagrant --version=2.3.7 -y
 choco install git -y
 choco install corretto11jdk -y
 choco install maven -y
